@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.div1{
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50pt;
+}
+
+.div2{
+    background-color: white;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 148pt;
+}
+
+.div3{
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 163pt;
+}
+
+.div4{
+    background-color: white;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50pt;
+}
+
+.div5{
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 43pt;
+}
+
